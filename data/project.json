@@ -6,7 +6,13 @@
     "publish_iso_date": "",
     "include_slug_in_base": true
   },
-  "users": [],
+  "users": [
+    {
+      "login_name": "mplaney317",
+      "avatar_url": "https://avatars.githubusercontent.com/u/243150412?v=4",
+      "admin": true
+    }
+  ],
   "project": {
     "github_org": "mplaney317",
     "is_private": false,
@@ -24,6 +30,27 @@
       "tags": []
     },
     "created_at": "2026-10-30T16:14:14.555Z",
-    "updated_at": "2026-10-30T16:14:14.555Z"
-  }
+    "updated_at": "2026-10-30T16:14:14.555Z",
+    "generate_pages_site": true
+  },
+  "annotations": {},
+  "events": {},
+  "eventOrder": [],
+  "pages": {
+    "d2461fea-602e-4c73-98c3-261960bca914": {
+      "content": [],
+      "created_at": "2026-10-30T16:14:14.574Z",
+      "created_by": "mplaney317",
+      "title": "Test",
+      "updated_at": "2026-10-30T16:14:14.574Z",
+      "updated_by": "mplaney317",
+      "autogenerate": {
+        "enabled": true,
+        "type": "home"
+      }
+    }
+  },
+  "pageOrder": [
+    "d2461fea-602e-4c73-98c3-261960bca914"
+  ]
 }
