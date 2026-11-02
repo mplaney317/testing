@@ -4,8 +4,8 @@
       "label": "What's Doing",
       "is_offline": false,
       "file_type": "Audio",
-      "file_url": "https://n2t.net/ark:/85335/m5t72bp8h",
-      "duration": 0,
+      "file_url": "https://archive.lib.msu.edu/VVL/dbnumbers/DB54307.mp3",
+      "duration": 737,
       "caption_set": [],
       "set_sort": []
     }
@@ -28,6 +28,6 @@
   ],
   "created_at": "2026-10-30T16:18:49.857Z",
   "created_by": "mplaney317",
-  "updated_at": "2026-10-30T16:18:49.857Z",
+  "updated_at": "2026-11-02T15:44:59.863Z",
   "updated_by": "mplaney317"
 }
